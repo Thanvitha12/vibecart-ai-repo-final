@@ -1,0 +1,6 @@
+{
+  "name": "VibeCart AI",
+  "description": "Agentic e-commerce price-authenticator and vibe-matching engine powered by Gemini 3.8 Flash",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
